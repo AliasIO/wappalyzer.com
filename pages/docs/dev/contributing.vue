@@ -195,7 +195,7 @@ $ ./run links</Prism></pre>
           >regular expressions</a
         >
         to fingerprint web applications. Refer to the
-        <a href="/dev/specification">specification</a> for more detail.
+        <a href="specification">specification</a> for more detail.
       </p>
 
       <h2 id="adding-a-new-category" class="mt-8 mb-2">
